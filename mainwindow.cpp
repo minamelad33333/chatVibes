@@ -8,6 +8,10 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    // Set the window to open as full screen with the title bar, maximize button, and close button
+    this->showMaximized();
+
+
 }
 
 MainWindow::~MainWindow()
