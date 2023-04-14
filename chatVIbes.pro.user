@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
+<<<<<<< HEAD
 <!-- Written by QtCreator 10.0.0, 2023-04-14T04:34:47. -->
+=======
+<!-- Written by QtCreator 10.0.0, 2023-04-14T01:54:43. -->
+>>>>>>> 2a075950ec568790498d733509d86f2976ad24dc
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -75,16 +79,23 @@
     <value type="bool" key="ClangTools.AnalyzeOpenFiles">true</value>
     <value type="bool" key="ClangTools.BuildBeforeAnalysis">true</value>
     <value type="QString" key="ClangTools.DiagnosticConfig">Builtin.DefaultTidyAndClazy</value>
+<<<<<<< HEAD
     <value type="int" key="ClangTools.ParallelJobs">6</value>
+=======
+    <value type="int" key="ClangTools.ParallelJobs">8</value>
+>>>>>>> 2a075950ec568790498d733509d86f2976ad24dc
     <valuelist type="QVariantList" key="ClangTools.SelectedDirs"/>
     <valuelist type="QVariantList" key="ClangTools.SelectedFiles"/>
     <valuelist type="QVariantList" key="ClangTools.SuppressedDiagnostics"/>
     <value type="bool" key="ClangTools.UseGlobalSettings">true</value>
    </valuemap>
+<<<<<<< HEAD
    <valuemap type="QVariantMap" key="ClangdSettings">
     <value type="bool" key="blockIndexing">false</value>
     <value type="bool" key="useGlobalSettings">true</value>
    </valuemap>
+=======
+>>>>>>> 2a075950ec568790498d733509d86f2976ad24dc
   </valuemap>
  </data>
  <data>
@@ -240,14 +251,23 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
+<<<<<<< HEAD
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/Downloads/test/chatVibes/chatVIbes.pro</value>
     <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Downloads/test/chatVibes/chatVIbes.pro</value>
+=======
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:C:/Users/Marko/Documents/chatVIbes/chatVIbes.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">C:/Users/Marko/Documents/chatVIbes/chatVIbes.pro</value>
+>>>>>>> 2a075950ec568790498d733509d86f2976ad24dc
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
+<<<<<<< HEAD
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Downloads/test/build-chatVIbes-Desktop_Qt_6_5_0_MinGW_64_bit-Debug</value>
+=======
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">C:/Users/Marko/Documents/build-chatVIbes-Desktop_Qt_6_5_0_MinGW_64_bit-Debug</value>
+>>>>>>> 2a075950ec568790498d733509d86f2976ad24dc
    </valuemap>
    <value type="qlonglong" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>
